@@ -116,6 +116,8 @@
 </template>
 
 <script>
+console.log('nuxt tutorial page')
+
 export default {
   name: 'NuxtTutorial',
 }
